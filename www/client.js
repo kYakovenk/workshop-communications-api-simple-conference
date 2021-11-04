@@ -12,7 +12,7 @@ function updateNameValue(e) {
 }
 
 // URL to our Token Server
-const tokenServerURL = 'https://zealous-mirzakhani-d60781.netlify.app';
+const tokenServerURL = 'https://zealous-mirzakhani-d60781.netlify.app/api/token-generator';
 
 
 
